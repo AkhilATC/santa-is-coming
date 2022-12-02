@@ -6,7 +6,7 @@ ques = [
     },
     {
         "questions": "Who is younger among us?",
-        "ans": "midhun",
+        "ans": "anamika",
         "id": 2
     },
     {
