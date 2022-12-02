@@ -12,6 +12,7 @@ def fetch_template(q=0):
                              f"<p> {d['questions']} <input type = 'text' name='{q+1}'/></p>"\
                              "<button name='forwardBtn' type='submit'>🏁</button></form>"
         return rendering_template
+
     else:
         q_id = int(q[0])
         ans = str(q[1]).lower()
