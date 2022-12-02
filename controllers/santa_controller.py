@@ -50,6 +50,7 @@ def santa_in_action():
     print(ans)
     return render_template("render.html",render=fetch_template(q=ans))
 
+
 @santa.route("/<q_id>/submit-answer", methods=['POST'])
 def submit_answer(q_id):
     try:

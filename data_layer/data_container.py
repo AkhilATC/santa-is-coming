@@ -1,11 +1,11 @@
 ques = [
     {
-        "questions": "Who is hide from beginning?",
+        "questions": "Who is hiding from the beginning?",
         "ans": "harsha",
         "id": 1
     },
     {
-        "questions": "Who is younger among us?",
+        "questions": "Who is the youngest amongst us?",
         "ans": "anamika",
         "id": 2
     },
@@ -16,7 +16,7 @@ ques = [
     },
     {
         "questions": "☀️ 115 099 114 117 109 032 mtr?",
-        "ans": "demo",
+        "ans": "vrunda",
         "id": 4
     },
     {
